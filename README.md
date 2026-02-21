@@ -126,9 +126,21 @@ This model ensures fast and reliable translations.
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
-Name: Nanu  
+Team ID : LTVIP2026TMIDS52172
+
+Team Size : 4
+
+Team Leader : A Leela Mohan Reddy
+
+Team member : Adalam Archana
+
+Team member : Alluri Partha Saradhi Reddy
+
+Team member : Balaadithya Vaccha
+
+  
 Project: TransLingua  
 Domain: Artificial Intelligence & NLP  
 
